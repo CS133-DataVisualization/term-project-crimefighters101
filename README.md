@@ -1,7 +1,9 @@
-# CSU Crime Statistics Research
-## Team: CrimeFighters101
-## Members: Emily Leson, Shannon Lo, Tyler Awender, Ynha Nguyen
-## CS 133 Data Visualization
+# CSU Crime Statistics Research | CS 133 Data Visualization
+## Team: 
+CrimeFighters101
+
+## Members: 
+Emily Leson, Shannon Lo, Tyler Awender, Ynha Nguyen
 
 ## Guiding Questions
 1. How does the crime profile of public campus facilities (joint use between student and public access) differ from student only facilities like the gym and dorms?
