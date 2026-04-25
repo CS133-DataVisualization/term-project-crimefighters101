@@ -16,9 +16,6 @@ Emily Leson, Shannon Lo, Tyler Awender, Ynha Nguyen
 This project is implemented entirely in Jupyter notebooks designed to run on Google Colab.
 1. Click on the notebook you want to run (for example, ‎`P3_interactive.ipynb`).
 2. At the top of the notebook preview, click “Open in Colab”.
-3. If you don’t see the button, you can also:
- ⁃ Copy the notebook URL, then
-go to https://colab.research.google.com ↗ (https://colab.research.google.com)
-→ GitHub tab → paste the URL → open the notebook.
+3. If you don’t see the button, you can also: Copy the notebook URL, then go to https://colab.research.google.com ↗ (https://colab.research.google.com). Then go to the GitHub tab → paste the URL → open the notebook.
 
 
