@@ -6,10 +6,10 @@ CrimeFighters101
 Emily Leson, Shannon Lo, Tyler Awender, Ynha Nguyen
 
 ## Guiding Questions
-1. How does the crime profile of public campus facilities (joint use between student and public access) differ from student only facilities like the gym and dorms?
-2. Do “crime waves” follow the academic stress cycle (midterms/finals)?
-3. Are there specific areas on campus where the likelihood of theft to security patrol frequency is disproportionately high?
-4. Do drug and alcohol violations increase during competitions, events, or concerts and do they “spill over” into the surrounding neighborhoods?
+1. How does the crime profile of public-access campus property (joint use between student and public access) differ from student-only facilities like On-Campus dormitory buildings and classrooms?
+2. How have CSU crime patterns shifted over time (2015 between 2023), and is the 2020 to 2021 dip consistent across all campuses or concentrated in certain ones?
+3. Are there specific areas on campus where the likelihood of theft relative to security patrol frequency is disproportionately high?
+4. Which location category sees the highest share of drug, liquor, and weapons arrests, and does that match where criminal offenses concentrate or do arrests and offenses follow distinct geographic patterns across the four location categories?
 5. Does a higher volume of people on campus lead to more reported crimes due to more targets, or fewer crimes due to more potential witnesses?
 
 ## Set Up
