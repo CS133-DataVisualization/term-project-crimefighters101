@@ -1,4 +1,4 @@
-# CSU Crime Statistics Research | CS 133 Data Visualization
+# California State University Crime Statistics Analysis | CS 133 Data Visualization
 ## Team: 
 CrimeFighters101
 
