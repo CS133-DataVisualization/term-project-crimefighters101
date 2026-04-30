@@ -1,0 +1,396 @@
+Survey year,Unitid,Institution name,OPEID,Campus ID, Campus Name,Institution Size,Murder/Non-negligent manslaughter,Negligent manslaughter,Sex offenses - Forcible,Rape,Fondling,Sex offenses - Non-forcible,Incest,Statutory rape,Robbery,Aggravated assault,Burglary,Motor vehicle theft,Arson
+2015,110422,California Polytechnic State University-San Luis Obispo,114300,1,Main Campus,20944,0,0,,0,0,,0,0,0,0,0,0,0
+2015,115755,California State Polytechnic University-Humboldt,114900,1,Cal Poly Humboldt,8790,0,0,,1,0,,0,0,0,1,0,0,0
+2015,110529,California State Polytechnic University-Pomona,114400,1,Main Campus,23717,0,0,,0,0,,0,0,0,0,0,0,0
+2015,111188,California State University Maritime Academy,113400,1,California State University Maritime Academy,1075,0,0,,0,0,,0,0,1,0,0,1,0
+2015,110486,California State University-Bakersfield,799300,1,Main Campus,9228,0,0,,0,0,,0,0,0,0,0,0,0
+2015,441937,California State University-Channel Islands,3980300,1,California State University Channel Islands - Main Campus,6167,0,0,,0,0,,0,0,0,0,0,1,0
+2015,441937,California State University-Channel Islands,3980300,2,Thousand Oaks Campus,6167,0,0,,0,0,,0,0,0,0,0,0,0
+2015,441937,California State University-Channel Islands,3980300,4,California State University Channel Islands - Goleta Campus,6167,0,0,,0,0,,0,0,0,0,0,0,0
+2015,110538,California State University-Chico,114600,1,Main Campus,17220,0,0,,0,0,,0,0,0,2,0,2,0
+2015,110547,California State University-Dominguez Hills,114100,1,California State University Dominguez Hills,14635,0,0,,1,0,,0,0,1,0,0,4,0
+2015,110574,California State University-East Bay,113800,1,Main Campus,15528,0,0,,0,0,,0,0,0,1,0,0,0
+2015,110574,California State University-East Bay,113800,2,Concord Center,15528,0,0,,0,0,,0,0,0,0,0,0,0
+2015,110574,California State University-East Bay,113800,3,Oakland Center,15528,0,0,,0,1,,0,0,1,0,0,0,0
+2015,110556,California State University-Fresno,114700,1,Main Campus,24136,0,0,,0,0,,0,0,1,0,0,0,0
+2015,110565,California State University-Fullerton,113700,1,Main Campus,38948,0,0,,0,1,,0,0,1,3,0,3,0
+2015,110565,California State University-Fullerton,113700,3,Desert Studies Center,38948,0,0,,0,0,,0,0,0,0,0,0,0
+2015,110565,California State University-Fullerton,113700,4,Grand Central Arts Center,38948,0,0,,0,0,,0,0,0,0,0,0,0
+2015,110565,California State University-Fullerton,113700,5,Irvine Center,38948,0,0,,0,0,,0,0,0,0,0,0,0
+2015,110565,California State University-Fullerton,113700,6,Garden Grove Center,38948,0,0,,0,0,,0,0,0,0,0,0,0
+2015,110583,California State University-Long Beach,113900,1,Main Campus,37446,0,0,,0,0,,0,0,0,1,0,1,0
+2015,110592,California State University-Los Angeles,114000,1,California State University- Los Angeles,27680,0,0,,0,0,,0,0,0,1,0,0,0
+2015,409698,California State University-Monterey Bay,3260300,1,California State University- Monterey Bay,7102,0,0,,0,0,,0,0,0,0,0,0,0
+2015,110608,California State University-Northridge,115300,1,California State University- Northridge,41548,0,0,,1,0,,0,0,0,1,0,12,0
+2015,110617,California State University-Sacramento,115000,1,Sacramento State,30284,0,0,,0,1,,0,0,1,0,0,0,0
+2015,110510,California State University-San Bernardino,114200,1,California State University- San Bernardino,20024,0,0,,0,0,,0,0,1,0,0,0,0
+2015,110510,California State University-San Bernardino,114200,2,Palm Desert Satellite Campus,20024,0,0,,0,0,,0,0,0,0,0,0,0
+2015,366711,California State University-San Marcos,3011300,1,Main Campus,12793,0,0,,0,0,,0,0,0,0,0,0,0
+2015,366711,California State University-San Marcos,3011300,3,Temecula Branch Campus,12793,0,0,,0,0,,0,0,0,0,0,0,0
+2015,366711,California State University-San Marcos,3011300,4,Temecula Higher Education Center,12793,0,0,,0,0,,0,0,0,0,0,0,0
+2015,110495,California State University-Stanislaus,115700,1,CSU Stanislaus - Turlock,9282,0,0,,0,0,,0,0,0,0,0,1,0
+2015,110495,California State University-Stanislaus,115700,2,CSU Stanislaus - Stockton,9282,0,0,,0,0,,0,0,0,0,0,0,0
+2015,122409,San Diego State University,115100,1,Main Campus,34254,0,0,,0,1,,0,0,0,5,0,6,1
+2015,122409,San Diego State University,115100,2,Imperial Valley Campus,34254,0,0,,0,0,,0,0,0,0,0,0,0
+2015,122597,San Francisco State University,115400,1,Main Campus,30256,0,0,,0,0,,0,0,4,5,0,34,1
+2015,122597,San Francisco State University,115400,2,Downtown Center,30256,0,0,,0,0,,0,0,17,17,0,0,1
+2015,122597,San Francisco State University,115400,3,The Estuary & Ocean Science Center,30256,0,0,,0,0,,0,0,0,0,0,0,0
+2015,122755,San Jose State University,115500,1,Main Campus,32773,0,0,,0,2,,0,0,3,2,0,14,0
+2015,122755,San Jose State University,115500,2,Moss Landing Marine Laboratory,32773,0,0,,0,0,,0,0,0,0,0,0,0
+2015,123572,Sonoma State University,115600,1,Sonoma State University,9408,0,0,,0,0,,0,0,0,0,0,0,0
+2016,110422,California Polytechnic State University-San Luis Obispo,114300,1,Main Campus,21306,0,0,,2,0,,0,0,0,0,0,1,0
+2016,115755,California State Polytechnic University-Humboldt,114900,1,Cal Poly Humboldt,8503,0,0,,0,0,,0,0,0,2,0,0,0
+2016,110529,California State Polytechnic University-Pomona,114400,1,Main Campus,25326,0,0,,0,0,,0,0,0,0,0,1,0
+2016,111188,California State University Maritime Academy,113400,1,California State University Maritime Academy,1107,0,0,,0,0,,0,0,0,0,0,2,0
+2016,110486,California State University-Bakersfield,799300,1,Main Campus,9341,0,0,,0,0,,0,0,0,0,0,0,0
+2016,441937,California State University-Channel Islands,3980300,1,California State University Channel Islands - Main Campus,6611,0,0,,0,0,,0,0,0,0,0,0,0
+2016,441937,California State University-Channel Islands,3980300,2,Thousand Oaks Campus,6611,0,0,,0,0,,0,0,0,0,0,0,0
+2016,441937,California State University-Channel Islands,3980300,4,California State University Channel Islands - Goleta Campus,6611,0,0,,0,0,,0,0,0,0,0,0,0
+2016,110538,California State University-Chico,114600,1,Main Campus,17557,0,0,,0,0,,0,0,1,0,0,1,0
+2016,110547,California State University-Dominguez Hills,114100,1,California State University Dominguez Hills,14731,0,0,,0,0,,0,0,0,0,0,2,0
+2016,110574,California State University-East Bay,113800,1,Main Campus,15855,0,0,,0,0,,0,0,0,0,0,1,0
+2016,110574,California State University-East Bay,113800,2,Concord Center,15855,0,0,,0,0,,0,0,0,0,0,0,0
+2016,110574,California State University-East Bay,113800,3,Oakland Center,15855,0,0,,0,0,,0,0,3,0,0,0,0
+2016,110556,California State University-Fresno,114700,1,Main Campus,24405,0,0,,0,0,,0,0,1,0,0,0,0
+2016,110565,California State University-Fullerton,113700,1,Main Campus,40235,0,0,,0,1,,0,0,0,0,0,3,0
+2016,110565,California State University-Fullerton,113700,3,Desert Studies Center,40235,0,0,,0,0,,0,0,0,0,0,0,0
+2016,110565,California State University-Fullerton,113700,4,Grand Central Arts Center,40235,0,0,,0,0,,0,0,0,0,0,0,0
+2016,110565,California State University-Fullerton,113700,5,Irvine Center,40235,0,0,,0,0,,0,0,0,0,0,0,0
+2016,110565,California State University-Fullerton,113700,6,Garden Grove Center,40235,0,0,,0,0,,0,0,0,0,0,0,0
+2016,110583,California State University-Long Beach,113900,1,Main Campus,37776,0,0,,0,0,,0,0,0,0,0,4,0
+2016,110592,California State University-Los Angeles,114000,1,California State University- Los Angeles,27827,0,0,,0,0,,0,0,0,0,0,0,0
+2016,409698,California State University-Monterey Bay,3260300,1,California State University- Monterey Bay,7274,0,0,,0,0,,0,0,0,0,0,0,0
+2016,110608,California State University-Northridge,115300,1,California State University- Northridge,39916,0,0,,0,1,,0,0,3,1,0,7,0
+2016,110617,California State University-Sacramento,115000,1,Sacramento State,30510,0,0,,0,0,,0,0,0,1,0,0,0
+2016,110510,California State University-San Bernardino,114200,1,California State University- San Bernardino,20767,0,0,,0,0,,0,0,1,0,0,0,0
+2016,110510,California State University-San Bernardino,114200,2,Palm Desert Satellite Campus,20767,0,0,,0,0,,0,0,0,0,0,0,0
+2016,366711,California State University-San Marcos,3011300,1,Main Campus,13144,0,0,,0,0,,0,0,0,0,0,0,0
+2016,366711,California State University-San Marcos,3011300,3,Temecula Branch Campus,13144,0,0,,0,0,,0,0,0,0,0,0,0
+2016,366711,California State University-San Marcos,3011300,4,Temecula Higher Education Center,13144,0,0,,0,0,,0,0,0,0,0,0,0
+2016,110495,California State University-Stanislaus,115700,1,CSU Stanislaus - Turlock,9762,0,0,,0,0,,0,0,1,0,0,3,0
+2016,110495,California State University-Stanislaus,115700,2,CSU Stanislaus - Stockton,9762,0,0,,0,0,,0,0,0,0,0,0,0
+2016,122409,San Diego State University,115100,1,Main Campus,34688,0,0,,2,0,,0,0,8,0,0,14,0
+2016,122409,San Diego State University,115100,2,Imperial Valley Campus,34688,0,0,,0,0,,0,0,0,0,0,0,0
+2016,122597,San Francisco State University,115400,1,Main Campus,29045,0,0,,0,0,,0,0,4,4,0,18,0
+2016,122597,San Francisco State University,115400,2,Downtown Center,29045,0,0,,0,0,,0,0,23,15,0,0,0
+2016,122597,San Francisco State University,115400,3,The Estuary & Ocean Science Center,29045,0,0,,0,0,,0,0,0,0,0,0,0
+2016,122755,San Jose State University,115500,1,Main Campus,32154,0,0,,1,3,,0,0,6,1,0,23,0
+2016,122755,San Jose State University,115500,2,Moss Landing Marine Laboratory,32154,0,0,,0,0,,0,0,0,0,0,0,0
+2016,123572,Sonoma State University,115600,1,Sonoma State University,9323,0,0,,0,0,,0,1,0,0,0,0,0
+2017,110422,California Polytechnic State University-San Luis Obispo,114300,1,Main Campus,22370,0,0,,0,0,,0,0,1,0,0,0,0
+2017,115755,California State Polytechnic University-Humboldt,114900,1,Cal Poly Humboldt,8525,0,0,,0,0,,0,0,0,0,0,0,0
+2017,110529,California State Polytechnic University-Pomona,114400,1,Main Campus,26053,0,0,,0,0,,0,0,1,1,0,1,0
+2017,111188,California State University Maritime Academy,113400,1,California State University Maritime Academy,1090,0,0,,0,0,,0,0,0,0,0,0,0
+2017,110486,California State University-Bakersfield,799300,1,Main Campus,10131,0,0,,0,0,,0,0,0,0,0,0,0
+2017,441937,California State University-Channel Islands,3980300,1,California State University Channel Islands - Main Campus,7455,0,0,,0,0,,0,0,0,0,0,0,0
+2017,441937,California State University-Channel Islands,3980300,4,California State University Channel Islands - Goleta Campus,7455,0,0,,0,0,,0,0,0,0,0,0,0
+2017,110538,California State University-Chico,114600,1,Main Campus,17875,0,0,,0,1,,0,0,3,0,0,1,0
+2017,110547,California State University-Dominguez Hills,114100,1,California State University Dominguez Hills,16219,0,0,,0,0,,0,0,0,0,0,0,0
+2017,110574,California State University-East Bay,113800,1,Main Campus,16538,0,0,,0,0,,0,0,0,0,0,0,0
+2017,110574,California State University-East Bay,113800,2,Concord Center,16538,0,0,,0,0,,0,0,0,0,0,0,0
+2017,110574,California State University-East Bay,113800,3,Oakland Center,16538,0,0,,0,0,,0,0,0,0,0,0,0
+2017,110556,California State University-Fresno,114700,1,Main Campus,25325,0,0,,0,0,,0,0,0,0,0,2,0
+2017,110565,California State University-Fullerton,113700,1,Main Campus,40905,0,0,,0,0,,0,0,0,0,0,0,0
+2017,110565,California State University-Fullerton,113700,3,Desert Studies Center,40905,0,0,,0,0,,0,0,0,0,0,0,0
+2017,110565,California State University-Fullerton,113700,4,Grand Central Arts Center,40905,0,0,,0,0,,0,0,0,0,0,0,0
+2017,110565,California State University-Fullerton,113700,5,Irvine Center,40905,0,0,,0,0,,0,0,0,0,0,0,0
+2017,110565,California State University-Fullerton,113700,6,Garden Grove Center,40905,0,0,,0,0,,0,0,0,0,0,0,0
+2017,110583,California State University-Long Beach,113900,1,Main Campus,37622,0,0,,0,1,,0,0,0,0,0,0,0
+2017,110592,California State University-Los Angeles,114000,1,California State University- Los Angeles,28531,0,0,,0,0,,0,0,0,0,0,0,0
+2017,110592,California State University-Los Angeles,114000,2,Cal State LA Downtown,28531,0,0,,0,0,,0,0,0,0,0,0,0
+2017,409698,California State University-Monterey Bay,3260300,1,California State University- Monterey Bay,7584,0,0,,0,0,,0,0,0,0,0,0,0
+2017,110608,California State University-Northridge,115300,1,California State University- Northridge,41319,0,0,,0,0,,0,0,2,0,0,5,1
+2017,110617,California State University-Sacramento,115000,1,Sacramento State,31255,0,0,,1,0,,0,0,0,0,0,0,0
+2017,110510,California State University-San Bernardino,114200,1,California State University- San Bernardino,20692,0,0,,0,0,,0,0,0,0,0,0,0
+2017,110510,California State University-San Bernardino,114200,2,Palm Desert Satellite Campus,20692,0,0,,0,0,,0,0,0,0,0,0,0
+2017,366711,California State University-San Marcos,3011300,1,Main Campus,15755,0,0,,0,0,,0,0,0,0,0,0,0
+2017,366711,California State University-San Marcos,3011300,3,Temecula Branch Campus,15755,0,0,,0,0,,0,0,0,0,0,0,0
+2017,366711,California State University-San Marcos,3011300,4,Temecula Higher Education Center,15755,0,0,,0,0,,0,0,0,0,0,0,0
+2017,110495,California State University-Stanislaus,115700,1,CSU Stanislaus - Turlock,10327,0,0,,0,1,,0,0,2,0,0,4,0
+2017,110495,California State University-Stanislaus,115700,2,CSU Stanislaus - Stockton,10327,0,0,,0,0,,0,0,0,0,0,0,0
+2017,122409,San Diego State University,115100,1,Main Campus,35158,0,0,,0,2,,0,0,7,0,0,6,0
+2017,122409,San Diego State University,115100,2,Imperial Valley Campus,35158,0,0,,0,0,,0,0,0,0,0,0,0
+2017,122597,San Francisco State University,115400,1,Main Campus,29758,0,0,,1,0,,0,0,3,1,0,17,0
+2017,122597,San Francisco State University,115400,2,Downtown Center,29758,0,0,,1,0,,0,0,15,14,0,2,0
+2017,122597,San Francisco State University,115400,3,The Estuary & Ocean Science Center,29758,0,0,,0,0,,0,0,0,0,0,0,0
+2017,122755,San Jose State University,115500,1,Main Campus,35835,0,0,,0,0,,0,0,7,3,0,9,1
+2017,122755,San Jose State University,115500,2,Moss Landing Marine Laboratory,35835,0,0,,0,0,,0,0,0,0,0,0,0
+2017,123572,Sonoma State University,115600,1,Sonoma State University,9481,0,0,,0,0,,0,0,0,0,0,0,0
+2018,110422,California Polytechnic State University-San Luis Obispo,114300,1,Main Campus,22013,0,0,,0,0,,0,0,0,0,0,1,0
+2018,115755,California State Polytechnic University-Humboldt,114900,1,Cal Poly Humboldt,7972,0,0,,0,0,,0,0,0,2,0,0,0
+2018,110529,California State Polytechnic University-Pomona,114400,1,Main Campus,26598,0,0,,0,0,,0,0,0,0,0,0,0
+2018,111188,California State University Maritime Academy,113400,1,California State University Maritime Academy,1046,0,0,,0,0,,0,0,0,0,0,0,0
+2018,110486,California State University-Bakersfield,799300,1,Main Campus,10816,0,0,,0,0,,0,0,0,0,0,0,0
+2018,441937,California State University-Channel Islands,3980300,1,California State University Channel Islands - Main Campus,7488,0,0,,0,0,,0,0,0,0,0,0,0
+2018,441937,California State University-Channel Islands,3980300,4,California State University Channel Islands - Goleta Campus,7488,0,0,,0,0,,0,0,0,0,0,0,0
+2018,110538,California State University-Chico,114600,1,Main Campus,17578,0,0,,0,1,,0,0,4,1,0,0,0
+2018,110538,California State University-Chico,114600,2,Agricultural Teaching and Research Center/University Farm,17578,0,0,,0,0,,0,0,0,0,0,0,0
+2018,110538,California State University-Chico,114600,3,Redding Center,17578,0,0,,0,0,,0,0,0,0,0,0,0
+2018,110547,California State University-Dominguez Hills,114100,1,California State University Dominguez Hills,16732,0,0,,1,0,,0,0,2,4,0,4,0
+2018,110574,California State University-East Bay,113800,1,Main Campus,15628,0,0,,0,0,,0,1,0,0,0,0,0
+2018,110574,California State University-East Bay,113800,2,Concord Center,15628,0,0,,0,0,,0,0,0,0,0,0,0
+2018,110574,California State University-East Bay,113800,3,Oakland Center,15628,0,0,,0,0,,0,0,0,0,0,0,0
+2018,110556,California State University-Fresno,114700,1,Main Campus,25137,0,0,,0,1,,0,0,0,0,0,0,0
+2018,110556,California State University-Fresno,114700,2,Visalia Campus,25137,0,0,,0,0,,0,0,0,0,0,0,0
+2018,110565,California State University-Fullerton,113700,1,Main Campus,40280,0,0,,0,0,,0,0,0,1,0,0,0
+2018,110565,California State University-Fullerton,113700,3,Desert Studies Center,40280,0,0,,0,0,,0,0,0,0,0,0,0
+2018,110565,California State University-Fullerton,113700,4,Grand Central Arts Center,40280,0,0,,0,0,,0,0,0,0,0,0,0
+2018,110565,California State University-Fullerton,113700,5,Irvine Center,40280,0,0,,0,0,,0,0,0,0,0,0,0
+2018,110565,California State University-Fullerton,113700,6,Garden Grove Center,40280,0,0,,0,0,,0,0,0,0,0,0,0
+2018,110583,California State University-Long Beach,113900,1,Main Campus,37466,0,0,,0,0,,0,0,0,0,0,3,0
+2018,110592,California State University-Los Angeles,114000,1,California State University- Los Angeles,28036,0,0,,0,0,,0,0,0,0,0,0,0
+2018,110592,California State University-Los Angeles,114000,2,Cal State LA Downtown,28036,0,0,,0,0,,0,0,0,0,0,0,0
+2018,409698,California State University-Monterey Bay,3260300,1,California State University- Monterey Bay,7540,0,0,,0,0,,0,0,0,0,0,0,0
+2018,110608,California State University-Northridge,115300,1,California State University- Northridge,40212,0,0,,0,0,,0,0,0,0,0,1,0
+2018,110617,California State University-Sacramento,115000,1,Sacramento State,31902,0,0,,0,0,,0,0,0,0,0,0,0
+2018,110510,California State University-San Bernardino,114200,1,California State University- San Bernardino,20238,0,0,,0,0,,0,0,0,0,0,0,0
+2018,110510,California State University-San Bernardino,114200,2,Palm Desert Satellite Campus,20238,0,0,,0,0,,0,0,0,0,0,0,0
+2018,366711,California State University-San Marcos,3011300,1,Main Campus,15972,0,0,,1,0,,0,0,1,0,0,0,0
+2018,366711,California State University-San Marcos,3011300,3,Temecula Branch Campus,15972,0,0,,0,0,,0,0,0,0,0,0,0
+2018,366711,California State University-San Marcos,3011300,4,Temecula Higher Education Center,15972,0,0,,0,0,,0,0,0,0,0,0,0
+2018,110495,California State University-Stanislaus,115700,1,CSU Stanislaus - Turlock,10577,0,0,,0,0,,0,0,0,1,0,6,0
+2018,110495,California State University-Stanislaus,115700,2,CSU Stanislaus - Stockton,10577,0,0,,0,0,,0,0,0,0,0,0,0
+2018,122409,San Diego State University,115100,1,Main Campus,35303,0,0,,1,0,,0,0,7,5,0,2,0
+2018,122409,San Diego State University,115100,2,Imperial Valley Campus,35303,0,0,,0,0,,0,0,0,0,0,0,0
+2018,122597,San Francisco State University,115400,1,Main Campus,29778,0,0,,0,0,,0,0,1,3,0,24,0
+2018,122597,San Francisco State University,115400,2,Downtown Center,29778,0,0,,0,0,,0,0,11,8,0,0,0
+2018,122597,San Francisco State University,115400,3,The Estuary & Ocean Science Center,29778,0,0,,0,0,,0,0,0,0,0,0,0
+2018,122755,San Jose State University,115500,1,Main Campus,35400,0,0,,0,1,,0,0,4,2,0,2,0
+2018,122755,San Jose State University,115500,2,Moss Landing Marine Laboratory,35400,0,0,,0,0,,0,0,0,0,0,0,0
+2018,123572,Sonoma State University,115600,1,Sonoma State University,9459,0,0,,0,0,,0,0,0,0,0,0,0
+2019,110422,California Polytechnic State University-San Luis Obispo,114300,1,Main Campus,21426,0,0,,0,0,,0,0,0,0,0,0,0
+2019,115755,California State Polytechnic University-Humboldt,114900,1,Cal Poly Humboldt,7180,0,0,,0,0,,0,0,0,0,0,0,0
+2019,110529,California State Polytechnic University-Pomona,114400,1,Main Campus,28058,0,0,,0,0,,0,0,0,0,0,0,0
+2019,111188,California State University Maritime Academy,113400,1,California State University Maritime Academy,941,0,0,,0,0,,0,0,0,0,0,0,0
+2019,111188,California State University Maritime Academy,113400,2,The Training Ship Golden Bear,941,0,0,,0,0,,0,0,0,0,0,0,0
+2019,110486,California State University-Bakersfield,799300,1,Main Campus,11531,0,0,,0,0,,0,0,0,0,0,0,0
+2019,441937,California State University-Channel Islands,3980300,1,California State University Channel Islands - Main Campus,7525,0,0,,0,0,,0,0,0,0,0,0,0
+2019,441937,California State University-Channel Islands,3980300,4,California State University Channel Islands - Goleta Campus,7525,0,0,,0,0,,0,0,0,0,0,0,0
+2019,110538,California State University-Chico,114600,1,Main Campus,17110,0,0,,0,0,,0,0,4,1,0,1,0
+2019,110538,California State University-Chico,114600,2,Agricultural Teaching and Research Center/University Farm,17110,0,0,,0,0,,0,0,0,0,0,0,0
+2019,110538,California State University-Chico,114600,3,Redding Center,17110,0,0,,0,0,,0,0,0,0,0,0,0
+2019,110547,California State University-Dominguez Hills,114100,1,California State University Dominguez Hills,17977,0,0,,0,0,,0,0,0,0,0,3,0
+2019,110574,California State University-East Bay,113800,1,Main Campus,16064,0,0,,0,0,,0,0,1,0,0,0,0
+2019,110574,California State University-East Bay,113800,2,Concord Center,16064,0,0,,0,0,,0,0,0,0,0,0,0
+2019,110574,California State University-East Bay,113800,3,Oakland Center,16064,0,0,,0,0,,0,0,1,0,0,0,0
+2019,110556,California State University-Fresno,114700,1,Main Campus,24298,0,0,,0,0,,0,0,2,2,0,0,0
+2019,110556,California State University-Fresno,114700,2,Visalia Campus,24298,0,0,,0,0,,0,0,1,0,0,0,0
+2019,110565,California State University-Fullerton,113700,1,Main Campus,40445,0,0,,0,0,,0,0,0,0,0,0,0
+2019,110565,California State University-Fullerton,113700,3,Desert Studies Center,40445,0,0,,0,0,,0,0,0,0,0,0,0
+2019,110565,California State University-Fullerton,113700,4,Grand Central Arts Center,40445,0,0,,0,0,,0,0,0,0,0,0,0
+2019,110565,California State University-Fullerton,113700,5,Irvine Center,40445,0,0,,0,0,,0,0,0,0,0,0,0
+2019,110565,California State University-Fullerton,113700,6,Garden Grove Center,40445,0,0,,0,0,,0,0,0,0,0,0,0
+2019,110583,California State University-Long Beach,113900,1,Main Campus,38674,0,0,,0,0,,0,0,0,0,0,0,0
+2019,110592,California State University-Los Angeles,114000,1,California State University- Los Angeles,26671,0,0,,0,0,,0,0,0,0,0,0,0
+2019,110592,California State University-Los Angeles,114000,2,Cal State LA Downtown,26671,0,0,,0,0,,0,0,0,0,0,0,0
+2019,409698,California State University-Monterey Bay,3260300,1,California State University- Monterey Bay,7650,0,0,,0,0,,0,0,0,0,0,0,0
+2019,409698,California State University-Monterey Bay,3260300,2,CSUMB at North Salinas,7650,0,0,,0,0,,0,0,0,0,0,0,0
+2019,409698,California State University-Monterey Bay,3260300,3,CSUMB at Cuesta College,7650,0,0,,0,0,,0,0,0,0,0,0,0
+2019,110608,California State University-Northridge,115300,1,California State University- Northridge,39910,0,0,,1,0,,0,0,0,0,0,0,0
+2019,110617,California State University-Sacramento,115000,1,Sacramento State,31992,0,0,,0,0,,0,0,0,0,0,1,0
+2019,110510,California State University-San Bernardino,114200,1,California State University- San Bernardino,20638,0,0,,0,0,,0,0,0,0,0,0,0
+2019,110510,California State University-San Bernardino,114200,2,Palm Desert Satellite Campus,20638,0,0,,0,0,,0,0,0,0,0,0,0
+2019,366711,California State University-San Marcos,3011300,1,Main Campus,16053,0,0,,0,0,,0,0,1,0,0,0,0
+2019,366711,California State University-San Marcos,3011300,3,Temecula Branch Campus,16053,0,0,,0,0,,0,0,0,0,0,0,0
+2019,110495,California State University-Stanislaus,115700,1,CSU Stanislaus - Turlock,10974,0,0,,0,0,,0,0,0,0,0,0,0
+2019,110495,California State University-Stanislaus,115700,2,CSU Stanislaus - Stockton,10974,0,0,,0,0,,0,0,0,0,0,0,0
+2019,122409,San Diego State University,115100,1,Main Campus,35544,0,0,,0,0,,0,0,0,2,0,0,1
+2019,122409,San Diego State University,115100,2,Imperial Valley Campus,35544,0,0,,0,0,,0,0,0,0,0,0,0
+2019,122597,San Francisco State University,115400,1,Main Campus,29032,0,0,,0,0,,0,0,5,1,0,17,0
+2019,122597,San Francisco State University,115400,2,Downtown Center,29032,0,0,,0,0,,0,0,19,7,0,1,0
+2019,122597,San Francisco State University,115400,3,The Estuary & Ocean Science Center,29032,0,0,,0,0,,0,0,0,0,0,0,0
+2019,122755,San Jose State University,115500,1,Main Campus,36085,0,0,,0,0,,0,0,4,1,0,2,0
+2019,122755,San Jose State University,115500,2,Moss Landing Marine Laboratory,36085,0,0,,0,0,,0,0,0,0,0,0,0
+2019,122755,San Jose State University,115500,3,South Campus Athletic Complex,36085,0,0,,0,0,,0,0,0,0,0,0,0
+2019,122755,San Jose State University,115500,4,Reid-Hillview Airport,36085,0,0,,0,0,,0,0,0,0,0,0,0
+2019,122755,San Jose State University,115500,5,Timpany Center,36085,0,0,,0,0,,0,0,0,0,0,0,0
+2019,123572,Sonoma State University,115600,1,Sonoma State University,8887,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110422,California Polytechnic State University-San Luis Obispo,114300,1,Main Campus,22440,0,0,,0,0,,0,0,0,0,0,0,0
+2020,115755,California State Polytechnic University-Humboldt,114900,1,Cal Poly Humboldt,6612,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110529,California State Polytechnic University-Pomona,114400,1,Main Campus,30014,0,0,,0,0,,0,0,0,0,0,0,0
+2020,111188,California State University Maritime Academy,113400,1,California State University Maritime Academy,952,0,0,,0,0,,0,0,0,0,0,0,0
+2020,111188,California State University Maritime Academy,113400,2,The Training Ship Golden Bear,952,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110486,California State University-Bakersfield,799300,1,Main Campus,11745,0,0,,0,0,,0,0,0,0,0,0,0
+2020,441937,California State University-Channel Islands,3980300,1,California State University Channel Islands - Main Campus,7446,0,0,,1,0,,0,0,0,0,0,0,0
+2020,441937,California State University-Channel Islands,3980300,4,California State University Channel Islands - Goleta Campus,7446,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110538,California State University-Chico,114600,1,Main Campus,16746,0,0,,0,0,,0,0,0,1,0,0,0
+2020,110538,California State University-Chico,114600,2,Agricultural Teaching and Research Center/University Farm,16746,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110538,California State University-Chico,114600,3,Redding Center,16746,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110547,California State University-Dominguez Hills,114100,1,California State University Dominguez Hills,18687,0,0,,0,0,,0,0,0,0,0,0,1
+2020,110574,California State University-East Bay,113800,1,Main Campus,16253,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110574,California State University-East Bay,113800,2,Concord Center,16253,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110574,California State University-East Bay,113800,3,Oakland Center,16253,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110556,California State University-Fresno,114700,1,Main Campus,25497,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110556,California State University-Fresno,114700,2,Visalia Campus,25497,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110565,California State University-Fullerton,113700,1,Main Campus,42051,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110565,California State University-Fullerton,113700,3,Desert Studies Center,42051,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110565,California State University-Fullerton,113700,4,Grand Central Arts Center,42051,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110565,California State University-Fullerton,113700,5,Irvine Center,42051,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110565,California State University-Fullerton,113700,6,Garden Grove Center,42051,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110583,California State University-Long Beach,113900,1,Main Campus,40069,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110592,California State University-Los Angeles,114000,1,California State University- Los Angeles,26745,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110592,California State University-Los Angeles,114000,2,Cal State LA Downtown,26745,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110592,California State University-Los Angeles,114000,3,The Alhambra,26745,0,0,,0,0,,0,0,0,0,0,0,0
+2020,409698,California State University-Monterey Bay,3260300,1,California State University- Monterey Bay,7409,0,0,,1,0,,0,0,0,3,0,0,0
+2020,409698,California State University-Monterey Bay,3260300,2,CSUMB at North Salinas,7409,0,0,,0,0,,0,0,0,0,0,0,0
+2020,409698,California State University-Monterey Bay,3260300,3,CSUMB at Cuesta College,7409,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110608,California State University-Northridge,115300,1,California State University- Northridge,40381,0,0,,0,0,,0,0,0,0,0,3,0
+2020,110617,California State University-Sacramento,115000,1,Sacramento State,32293,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110510,California State University-San Bernardino,114200,1,California State University- San Bernardino,19689,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110510,California State University-San Bernardino,114200,2,Palm Desert Satellite Campus,19689,0,0,,0,0,,0,0,0,0,0,0,0
+2020,366711,California State University-San Marcos,3011300,1,Main Campus,16367,0,0,,0,0,,0,0,1,0,0,0,0
+2020,366711,California State University-San Marcos,3011300,3,Temecula Branch Campus,16367,0,0,,0,0,,0,0,0,0,0,0,0
+2020,110495,California State University-Stanislaus,115700,1,CSU Stanislaus - Turlock,11163,0,0,,0,0,,0,0,0,0,0,1,0
+2020,110495,California State University-Stanislaus,115700,2,CSU Stanislaus - Stockton,11163,0,0,,0,0,,0,0,0,0,0,0,0
+2020,122409,San Diego State University,115100,1,Main Campus,36334,0,0,,0,0,,0,0,0,0,0,0,0
+2020,122409,San Diego State University,115100,2,Imperial Valley Campus,36334,0,0,,0,0,,0,0,0,0,0,0,0
+2020,122409,San Diego State University,115100,3,San Diego State University Georgia,36334,0,0,,0,0,,0,0,0,0,0,0,0
+2020,122597,San Francisco State University,115400,1,Main Campus,27349,0,0,,0,0,,0,0,5,1,0,1,0
+2020,122597,San Francisco State University,115400,2,Downtown Center,27349,0,0,,0,0,,0,0,4,4,0,7,0
+2020,122597,San Francisco State University,115400,3,The Estuary & Ocean Science Center,27349,0,0,,0,0,,0,0,0,0,0,0,0
+2020,122755,San Jose State University,115500,1,Main Campus,36208,0,0,,0,0,,0,0,0,1,0,0,0
+2020,122755,San Jose State University,115500,2,Moss Landing Marine Laboratory,36208,0,0,,0,0,,0,0,0,0,0,0,0
+2020,122755,San Jose State University,115500,3,South Campus Athletic Complex,36208,0,0,,0,0,,0,0,0,0,0,0,0
+2020,122755,San Jose State University,115500,4,Reid-Hillview Airport,36208,0,0,,0,0,,0,0,0,0,0,0,0
+2020,122755,San Jose State University,115500,5,Timpany Center,36208,0,0,,0,0,,0,0,0,0,0,0,0
+2020,123572,Sonoma State University,115600,1,Sonoma State University,8018,0,0,,0,0,,0,0,0,0,0,0,0
+2021,110422,California Polytechnic State University-San Luis Obispo,114300,1,Main Campus,22231,0,0,,0,0,,0,0,0,1,0,1,0
+2021,115755,California State Polytechnic University-Humboldt,114900,1,Cal Poly Humboldt,5908,0,0,,0,1,,0,0,0,0,0,0,0
+2021,110529,California State Polytechnic University-Pomona,114400,1,Main Campus,29456,0,0,,0,0,,0,0,1,0,0,0,0
+2021,111188,California State University Maritime Academy,113400,1,California State University Maritime Academy,925,0,0,,0,0,,0,0,0,0,0,0,0
+2021,111188,California State University Maritime Academy,113400,2,The Training Ship Golden Bear,925,0,0,,0,0,,0,0,0,0,0,0,0
+2021,110486,California State University-Bakersfield,799300,1,Main Campus,10972,0,0,,0,0,,0,0,0,0,0,0,0
+2021,441937,California State University-Channel Islands,3980300,1,California State University Channel Islands - Main Campus,6966,0,0,,0,0,,0,0,0,0,0,0,0
+2021,441937,California State University-Channel Islands,3980300,4,California State University Channel Islands - Goleta Campus,6966,0,0,,0,0,,0,0,0,0,0,0,0
+2021,110538,California State University-Chico,114600,1,Main Campus,15702,0,0,,0,0,,0,0,0,0,0,0,0
+2021,110538,California State University-Chico,114600,2,Agricultural Teaching and Research Center/University Farm,15702,0,0,,0,0,,0,0,0,0,0,0,0
+2021,110547,California State University-Dominguez Hills,114100,1,California State University Dominguez Hills,17837,0,0,,0,0,,0,0,1,1,0,1,0
+2021,110574,California State University-East Bay,113800,1,Main Campus,15189,0,0,,0,0,,0,0,0,0,0,0,0
+2021,110574,California State University-East Bay,113800,2,Concord Center,15189,0,0,,0,0,,0,0,0,0,0,0,0
+2021,110574,California State University-East Bay,113800,3,Oakland Center,15189,0,0,,0,0,,0,0,0,0,0,0,0
+2021,110556,California State University-Fresno,114700,1,Main Campus,25047,0,0,,0,0,,0,0,1,1,0,2,0
+2021,110556,California State University-Fresno,114700,2,Visalia Campus,25047,0,0,,0,0,,0,0,0,0,0,0,0
+2021,110565,California State University-Fullerton,113700,1,Main Campus,40738,0,0,,1,0,,0,0,1,0,0,0,0
+2021,110565,California State University-Fullerton,113700,3,Desert Studies Center,40738,0,0,,0,0,,0,0,0,0,0,0,0
+2021,110565,California State University-Fullerton,113700,4,Grand Central Arts Center,40738,0,0,,0,0,,0,0,0,0,0,0,0
+2021,110583,California State University-Long Beach,113900,1,Main Campus,40190,0,0,,0,0,,0,0,0,0,0,0,0
+2021,110592,California State University-Los Angeles,114000,1,California State University- Los Angeles,27513,0,0,,0,0,,0,0,0,0,0,0,0
+2021,110592,California State University-Los Angeles,114000,2,Cal State LA Downtown,27513,0,0,,0,0,,0,0,0,0,0,0,0
+2021,110592,California State University-Los Angeles,114000,3,The Alhambra,27513,0,0,,0,0,,0,0,0,0,0,0,0
+2021,409698,California State University-Monterey Bay,3260300,1,California State University- Monterey Bay,7503,0,0,,0,0,,0,0,0,0,0,0,0
+2021,409698,California State University-Monterey Bay,3260300,2,CSUMB at North Salinas,7503,0,0,,0,0,,0,0,0,0,0,0,0
+2021,409698,California State University-Monterey Bay,3260300,3,CSUMB at Cuesta College,7503,0,0,,0,0,,0,0,0,0,0,0,0
+2021,110608,California State University-Northridge,115300,1,California State University- Northridge,40108,0,0,,0,0,,0,1,0,1,0,2,0
+2021,110617,California State University-Sacramento,115000,1,Sacramento State,32498,0,0,,0,0,,0,0,0,0,0,0,0
+2021,110510,California State University-San Bernardino,114200,1,California State University- San Bernardino,19514,0,0,,0,0,,0,0,0,0,0,0,0
+2021,110510,California State University-San Bernardino,114200,2,Palm Desert Satellite Campus,19514,0,0,,0,0,,0,0,0,0,0,0,0
+2021,366711,California State University-San Marcos,3011300,1,Main Campus,16255,0,0,,0,0,,0,0,0,0,0,0,0
+2021,366711,California State University-San Marcos,3011300,3,Temecula Branch Campus,16255,0,0,,0,0,,0,0,0,0,0,0,0
+2021,110495,California State University-Stanislaus,115700,1,CSU Stanislaus - Turlock,10481,0,0,,0,0,,0,0,0,0,0,0,0
+2021,110495,California State University-Stanislaus,115700,2,CSU Stanislaus - Stockton,10481,0,0,,0,0,,0,0,0,0,0,0,0
+2021,122409,San Diego State University,115100,1,Main Campus,36484,0,0,,1,2,,0,0,0,2,0,7,0
+2021,122409,San Diego State University,115100,2,Imperial Valley Campus,36484,0,0,,0,0,,0,0,0,0,0,0,0
+2021,122409,San Diego State University,115100,3,San Diego State University Georgia,36484,0,0,,0,0,,0,0,0,0,0,0,0
+2021,122597,San Francisco State University,115400,1,Main Campus,26899,0,0,,0,0,,0,0,0,3,0,5,1
+2021,122597,San Francisco State University,115400,2,Downtown Center,26899,0,0,,0,0,,0,0,1,4,0,0,0
+2021,122597,San Francisco State University,115400,3,The Estuary & Ocean Science Center,26899,0,0,,0,0,,0,0,0,0,0,0,0
+2021,122755,San Jose State University,115500,1,Main Campus,37133,0,0,,1,0,,0,0,1,0,0,0,0
+2021,122755,San Jose State University,115500,2,Moss Landing Marine Laboratory,37133,0,0,,0,0,,0,0,0,0,0,0,0
+2021,122755,San Jose State University,115500,3,South Campus Athletic Complex,37133,0,0,,0,0,,0,0,0,1,0,0,0
+2021,122755,San Jose State University,115500,4,Reid-Hillview Airport,37133,0,0,,0,0,,0,0,0,0,0,0,0
+2021,122755,San Jose State University,115500,5,Timpany Center,37133,0,0,,0,0,,0,0,0,0,0,0,0
+2021,123572,Sonoma State University,115600,1,Sonoma State University,7371,0,0,,0,0,,0,0,0,0,0,0,0
+2022,110422,California Polytechnic State University-San Luis Obispo,114300,1,Main Campus,22000,0,0,,0,0,,0,0,0,0,0,0,0
+2022,115755,California State Polytechnic University-Humboldt,114900,1,Cal Poly Humboldt,6025,0,0,,0,0,,0,0,0,1,0,0,0
+2022,110529,California State Polytechnic University-Pomona,114400,1,Main Campus,27503,0,0,,0,0,,0,0,0,0,0,0,0
+2022,111188,California State University Maritime Academy,113400,1,California State University Maritime Academy,849,0,0,,0,0,,0,0,0,0,0,0,0
+2022,111188,California State University Maritime Academy,113400,2,The Training Ship Golden Bear,849,0,0,,0,0,,0,0,0,0,0,0,0
+2022,110486,California State University-Bakersfield,799300,1,Main Campus,9613,0,0,,0,0,,0,0,0,0,0,0,0
+2022,441937,California State University-Channel Islands,3980300,1,California State University Channel Islands - Main Campus,6128,0,0,,0,0,,0,0,0,0,0,1,0
+2022,441937,California State University-Channel Islands,3980300,4,California State University Channel Islands - Goleta Campus,6128,0,0,,0,0,,0,0,0,0,0,0,0
+2022,110538,California State University-Chico,114600,1,Main Campus,14183,0,0,,0,0,,0,0,2,1,0,1,0
+2022,110538,California State University-Chico,114600,2,Agricultural Teaching and Research Center/University Farm,14183,0,0,,0,0,,0,0,0,0,0,0,0
+2022,110547,California State University-Dominguez Hills,114100,1,California State University Dominguez Hills,16426,0,0,,0,0,,0,0,0,0,0,0,0
+2022,110574,California State University-East Bay,113800,1,Main Campus,13673,0,0,,0,0,,0,0,0,0,0,0,0
+2022,110574,California State University-East Bay,113800,2,Concord Center,13673,0,0,,0,0,,0,0,0,0,0,0,0
+2022,110574,California State University-East Bay,113800,3,Oakland Center,13673,0,0,,0,0,,0,0,0,0,0,0,0
+2022,110556,California State University-Fresno,114700,1,Main Campus,23999,0,0,,0,0,,0,0,0,2,0,0,1
+2022,110556,California State University-Fresno,114700,2,Visalia Campus,23999,0,0,,0,0,,0,0,0,0,0,0,0
+2022,110565,California State University-Fullerton,113700,1,Main Campus,40386,0,0,,0,0,,0,0,0,0,0,0,0
+2022,110565,California State University-Fullerton,113700,3,Desert Studies Center,40386,0,0,,0,0,,0,0,0,0,0,0,0
+2022,110565,California State University-Fullerton,113700,4,Grand Central Arts Center,40386,0,0,,0,0,,0,0,0,0,0,0,0
+2022,110583,California State University-Long Beach,113900,1,Main Campus,38973,0,0,,0,0,,0,0,0,0,0,2,0
+2022,110592,California State University-Los Angeles,114000,1,California State University- Los Angeles,26460,0,0,,0,0,,0,0,0,0,0,0,0
+2022,110592,California State University-Los Angeles,114000,2,Cal State LA Downtown,26460,0,0,,0,0,,0,0,0,0,0,0,0
+2022,110592,California State University-Los Angeles,114000,3,The Alhambra,26460,0,0,,0,0,,0,0,0,0,0,0,0
+2022,409698,California State University-Monterey Bay,3260300,1,California State University- Monterey Bay,7045,0,0,,0,0,,0,0,0,0,0,0,0
+2022,409698,California State University-Monterey Bay,3260300,2,CSUMB at North Salinas,7045,0,0,,0,0,,0,0,0,0,0,0,0
+2022,409698,California State University-Monterey Bay,3260300,3,CSUMB at Cuesta College,7045,0,0,,0,0,,0,0,0,0,0,0,0
+2022,110608,California State University-Northridge,115300,1,California State University- Northridge,37579,0,0,,0,0,,0,0,0,0,0,0,0
+2022,110617,California State University-Sacramento,115000,1,Sacramento State,31818,0,0,,0,0,,0,0,0,0,0,0,0
+2022,110510,California State University-San Bernardino,114200,1,California State University- San Bernardino,19803,0,0,,0,0,,0,0,1,0,0,0,0
+2022,110510,California State University-San Bernardino,114200,2,Palm Desert Satellite Campus,19803,0,0,,0,0,,0,0,0,0,0,0,0
+2022,366711,California State University-San Marcos,3011300,1,Main Campus,15109,0,0,,0,0,,0,0,0,0,0,0,0
+2022,366711,California State University-San Marcos,3011300,3,Temecula Branch Campus,15109,0,0,,0,0,,0,0,0,0,0,0,0
+2022,110495,California State University-Stanislaus,115700,1,CSU Stanislaus - Turlock,10154,0,0,,0,0,,0,0,0,0,0,0,0
+2022,110495,California State University-Stanislaus,115700,2,CSU Stanislaus - Stockton,10154,0,0,,0,0,,0,0,0,0,0,0,0
+2022,122409,San Diego State University,115100,1,Main Campus,37402,0,0,,1,2,,0,0,1,2,0,1,0
+2022,122409,San Diego State University,115100,2,Imperial Valley Campus,37402,0,0,,0,0,,0,0,0,0,0,0,0
+2022,122409,San Diego State University,115100,3,San Diego State University Georgia,37402,0,0,,0,0,,0,0,0,0,0,0,0
+2022,122597,San Francisco State University,115400,1,Main Campus,25282,0,0,,0,0,,0,0,3,0,0,8,0
+2022,122597,San Francisco State University,115400,2,Downtown Center,25282,0,0,,0,0,,0,0,0,0,0,0,0
+2022,122597,San Francisco State University,115400,3,The Estuary & Ocean Science Center,25282,0,0,,0,0,,0,0,0,0,0,0,0
+2022,122755,San Jose State University,115500,1,Main Campus,35751,1,0,,0,1,,0,0,0,0,0,1,1
+2022,122755,San Jose State University,115500,2,Moss Landing Marine Laboratory,35751,0,0,,0,0,,0,0,0,0,0,0,0
+2022,122755,San Jose State University,115500,3,South Campus Athletic Complex,35751,0,0,,0,0,,0,0,0,1,0,0,0
+2022,122755,San Jose State University,115500,4,Reid-Hillview Airport,35751,0,0,,0,0,,0,0,0,0,0,0,0
+2022,122755,San Jose State University,115500,5,Timpany Center,35751,0,0,,0,0,,0,0,0,0,0,0,0
+2022,123572,Sonoma State University,115600,1,Sonoma State University,6637,0,0,,0,0,,0,0,0,0,0,0,0
+2023,110422,California Polytechnic State University-San Luis Obispo,114300,1,Main Campus,22485,0,0,,0,0,,0,0,0,0,0,0,0
+2023,115755,California State Polytechnic University-Humboldt,114900,1,Cal Poly Humboldt,6156,0,0,,0,0,,0,0,0,0,0,1,0
+2023,115755,California State Polytechnic University-Humboldt,114900,2,California State Polytechnic University - Humbolt  - Telonicher Marine Laboratory.,6156,0,0,,0,0,,0,0,0,0,0,0,0
+2023,110529,California State Polytechnic University-Pomona,114400,1,Main Campus,26848,0,0,,0,0,,0,0,0,0,0,0,0
+2023,111188,California State University Maritime Academy,113400,1,California State University Maritime Academy,805,0,0,,0,0,,0,0,0,0,0,0,0
+2023,111188,California State University Maritime Academy,113400,2,The Training Ship Golden Bear,805,0,0,,0,0,,0,0,0,0,0,0,0
+2023,110486,California State University-Bakersfield,799300,1,Main Campus,9787,0,0,,0,0,,0,0,0,0,0,0,0
+2023,441937,California State University-Channel Islands,3980300,1,California State University Channel Islands - Main Campus,5688,0,0,,0,0,,0,0,0,0,0,0,0
+2023,441937,California State University-Channel Islands,3980300,4,California State University Channel Islands - Goleta Campus,5688,0,0,,0,0,,0,0,0,0,0,0,0
+2023,110538,California State University-Chico,114600,1,Main Campus,14523,0,0,,0,0,,0,0,1,2,0,1,0
+2023,110538,California State University-Chico,114600,2,Agricultural Teaching and Research Center/University Farm,14523,0,0,,0,0,,0,0,0,0,0,0,0
+2023,110547,California State University-Dominguez Hills,114100,1,California State University Dominguez Hills,15181,0,0,,0,0,,0,0,0,0,0,0,0
+2023,110574,California State University-East Bay,113800,1,Main Campus,13333,0,0,,0,0,,0,0,0,0,0,0,0
+2023,110574,California State University-East Bay,113800,2,Concord Center,13333,0,0,,0,0,,0,0,0,0,0,0,0
+2023,110574,California State University-East Bay,113800,3,Oakland Center,13333,0,0,,0,0,,0,0,0,0,0,0,0
+2023,110556,California State University-Fresno,114700,1,Main Campus,23986,0,0,,0,0,,0,0,0,0,0,0,0
+2023,110556,California State University-Fresno,114700,2,Visalia Campus,23986,0,0,,0,0,,0,0,0,0,0,0,0
+2023,110565,California State University-Fullerton,113700,1,Main Campus,41962,0,0,,0,0,,0,0,0,2,0,0,0
+2023,110565,California State University-Fullerton,113700,3,Desert Studies Center,41962,0,0,,0,0,,0,0,0,0,0,0,0
+2023,110565,California State University-Fullerton,113700,4,Grand Central Arts Center,41962,0,0,,0,0,,0,0,0,0,0,0,0
+2023,110583,California State University-Long Beach,113900,1,Main Campus,40278,0,0,,0,0,,0,0,0,0,0,5,0
+2023,110592,California State University-Los Angeles,114000,1,California State University- Los Angeles,25080,0,0,,0,0,,0,0,0,0,0,0,0
+2023,110592,California State University-Los Angeles,114000,2,Cal State LA Downtown,25080,0,0,,0,0,,0,0,0,0,0,0,0
+2023,110592,California State University-Los Angeles,114000,3,The Alhambra,25080,0,0,,0,0,,0,0,0,0,0,0,0
+2023,409698,California State University-Monterey Bay,3260300,1,California State University- Monterey Bay,6742,0,0,,0,0,,0,0,0,0,0,1,0
+2023,409698,California State University-Monterey Bay,3260300,2,CSUMB at North Salinas,6742,0,0,,0,0,,0,0,0,0,0,0,0
+2023,409698,California State University-Monterey Bay,3260300,3,CSUMB at Cuesta College,6742,0,0,,0,0,,0,0,0,0,0,0,0
+2023,110608,California State University-Northridge,115300,1,California State University- Northridge,37760,0,0,,0,0,,0,0,0,0,0,2,0
+2023,110617,California State University-Sacramento,115000,1,Sacramento State,31172,0,0,,0,0,,0,0,0,0,0,0,0
+2023,110510,California State University-San Bernardino,114200,1,California State University- San Bernardino,18925,0,0,,0,0,,0,0,0,0,0,0,0
+2023,110510,California State University-San Bernardino,114200,2,Palm Desert Satellite Campus,18925,0,0,,0,0,,0,0,0,0,0,0,0
+2023,366711,California State University-San Marcos,3011300,1,Main Campus,15431,0,0,,0,0,,0,0,0,0,0,0,1
+2023,366711,California State University-San Marcos,3011300,3,Temecula Branch Campus,15431,0,0,,0,0,,0,0,0,0,0,0,0
+2023,366711,California State University-San Marcos,3011300,5,Mt. San Jacinto College- Temecula Valley Campus,15431,0,0,,0,0,,0,0,0,0,0,0,0
+2023,110495,California State University-Stanislaus,115700,1,CSU Stanislaus - Turlock,9841,0,0,,0,0,,0,0,1,0,0,0,0
+2023,110495,California State University-Stanislaus,115700,2,CSU Stanislaus - Stockton,9841,0,0,,0,0,,0,0,0,0,0,0,0
+2023,122409,San Diego State University,115100,1,Main Campus,39241,0,0,,0,1,,0,0,2,1,0,0,1
+2023,122409,San Diego State University,115100,2,Imperial Valley Campus,39241,0,0,,0,0,,0,0,0,0,0,0,0
+2023,122409,San Diego State University,115100,3,San Diego State University Georgia,39241,0,0,,0,0,,0,0,0,0,0,0,0
+2023,122597,San Francisco State University,115400,1,Main Campus,23908,0,0,,1,2,,0,0,4,1,0,19,1
+2023,122597,San Francisco State University,115400,2,Downtown Center,23908,0,0,,0,0,,0,0,0,0,0,0,0
+2023,122597,San Francisco State University,115400,3,The Estuary & Ocean Science Center,23908,0,0,,0,0,,0,0,0,0,0,0,0
+2023,122755,San Jose State University,115500,1,Main Campus,36062,0,0,,0,0,,0,0,0,0,0,0,1
+2023,122755,San Jose State University,115500,2,Moss Landing Marine Laboratory,36062,0,0,,0,0,,0,0,0,0,0,0,0
+2023,122755,San Jose State University,115500,3,South Campus Athletic Complex,36062,0,0,,0,0,,0,0,0,0,0,0,0
+2023,122755,San Jose State University,115500,4,Reid-Hillview Airport,36062,0,0,,0,0,,0,0,0,0,0,0,0
+2023,122755,San Jose State University,115500,5,Timpany Center,36062,0,0,,0,0,,0,0,0,0,0,0,0
+2023,123572,Sonoma State University,115600,1,Sonoma State University,5990,0,0,,0,0,,0,0,0,0,0,0,0
