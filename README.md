@@ -5,6 +5,9 @@ CrimeFighters101
 ## Members: 
 Emily Leson, Shannon Lo, Tyler Awender, Ynha Nguyen
 
+## Project Details
+This project analyzes reported crime patterns across California State University campuses using consolidated CSU campus safety datasets. The goal is to compare how crime differs across location categories such as on-campus property, public property, non-campus property, and student housing, and how reported crime trends changed from 2015 to 2023.
+
 ## Guiding Questions
 1. How does the crime profile of public-access campus property (joint use between student and public access) differ from student-only facilities like On-Campus dormitory buildings and classrooms?
 2. How have CSU crime patterns shifted over time (2015 between 2023), and is the 2020 to 2021 dip consistent across all campuses or concentrated in certain ones?
@@ -13,9 +16,31 @@ Emily Leson, Shannon Lo, Tyler Awender, Ynha Nguyen
 5. Does a higher volume of people on campus lead to more reported crimes due to more targets, or fewer crimes due to more potential witnesses?
 
 ## Set Up
-This project is implemented entirely in Jupyter notebooks designed to run on Google Colab.
-1. Click on the notebook you want to run (for example, ‎`P3_interactive.ipynb`).
-2. At the top of the notebook preview, click “Open in Colab”.
-3. If you don’t see the button, you can also: Copy the notebook URL, then go to https://colab.research.google.com ↗ (https://colab.research.google.com). Then go to the GitHub tab → paste the URL → open the notebook.
+1. Open the GitHub repository.
+2. Click on `CSU_Crime_Consolidated.ipynb` or `CSU_Crime_ML`.
+3. At the top of the notebook preview, click **Open in Colab**.
+4. If the button does not appear:
+   - Go to [Google Colab](https://colab.research.google.com/)
+   - Select the **GitHub** tab
+   - Paste the notebook URL
+   - Open the notebook
+5. Upload or place the `Cleaned` folder in Google Drive, and update the CSU_Crime_Consolidated import to reflect where you put the `Cleaned` folder
 
+6. Run the notebook cells from top to bottom.
 
+## Dependencies
+The notebook uses the following dependencies:
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- plotly
+- geopy
+- panel
+- jupyter_bokeh
+- scikit-learn
+- notebook
+- ipykernel
+
+They are imported in the `CSU_Crime_Consolidated` file
