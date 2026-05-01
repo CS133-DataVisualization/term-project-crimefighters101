@@ -12,7 +12,7 @@ This project analyzes reported crime patterns across California State University
 1. How does the crime profile of public-access campus property (joint use between student and public access) differ from student-only facilities like On-Campus dormitory buildings and classrooms?
 2. How have CSU crime patterns shifted over time (2015 between 2023), and is the 2020 to 2021 dip consistent across all campuses or concentrated in certain ones?
 3. Are there specific areas on campus where the likelihood of theft relative to security patrol frequency is disproportionately high?
-4. Which location category sees the highest share of drug, liquor, and weapons arrests, and does that match where criminal offenses concentrate or do arrests and offenses follow distinct geographic patterns across the four location categories?
+4. Which location category sees the highest share of drug, liquor, and weapons arrests, and do arrests and offenses follow distinct geographic patterns across the four location categories?
 5. Does a higher volume of people on campus lead to more reported crimes due to more targets, or fewer crimes due to more potential witnesses?
 
 ## Set Up
